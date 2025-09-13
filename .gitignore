@@ -27,8 +27,4 @@ ENV/
 *.json
 *.xlsx
 *.parquet
-data/raw/
-data/external/
-data/processed/
-data/
 data/
