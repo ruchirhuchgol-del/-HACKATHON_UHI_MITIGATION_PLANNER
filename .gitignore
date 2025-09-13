@@ -1,0 +1,34 @@
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+
+# Logs
+*.log
+
+# Data files
+*.csv
+*.json
+*.xlsx
+*.parquet
+data/raw/
+data/external/
+data/processed/
+data/
+data/
