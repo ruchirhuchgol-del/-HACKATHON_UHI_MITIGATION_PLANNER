@@ -1,0 +1,336 @@
+:root {
+--primary: #1f77b4;
+--primary-dark: #1f5aa0;
+--secondary: #ff7f0e;
+--success: #2ca02c;
+--warning: #ff7f0e;
+--danger: #d62728;
+
+--bg: #f6f7fb;
+--bg-contrast: #ffffff;
+--text: #2c3e50;
+--muted: #6c757d;
+
+--glass-bg: rgba(255, 255, 255, 0.6);
+--glass-border: rgba(255, 255, 255, 0.35);
+--glass-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+--radius: 12px;
+}
+
+/* Respect Streamlit theme tokens when available */
+:root {
+--st-bg: var(--background-color, var(--bg));
+--st-fg: var(--text-color, var(--text));
+--st-primary: var(--primary-color, var(--primary));
+}
+
+/* Main app background */
+html, body, [data-testid="stAppViewContainer"] {
+background: var(--st-bg) !important;
+color: var(--st-fg);
+}
+
+/* Sidebar: modern dark with glass effect */
+[data-testid="stSidebar"] {
+background: linear-gradient(180deg, #253447 0%, #1e2a38 100%) !important;
+color: #eef2f6 !important;
+border-right: 1px solid rgba(255, 255, 255, 0.06);
+backdrop-filter: saturate(140%) blur(10px);
+}
+
+[data-testid="stSidebar"] h1,
+[data-testid="stSidebar"] h2,
+[data-testid="stSidebar"] h3,
+[data-testid="stSidebar"] p,
+[data-testid="stSidebar"] li,
+[data-testid="stSidebar"] span {
+color: #eef2f6 !important;
+}
+
+/* Sidebar spacing */
+[data-testid="stSidebar"] [data-testid="stSidebarContent"] {
+padding-top: 1rem;
+}
+
+/* Cards and containers */
+.card,
+.map-container,
+.chart-container,
+.streamlit-expanderHeader {
+background: var(--glass-bg);
+border: 1px solid var(--glass-border);
+border-radius: var(--radius);
+box-shadow: var(--glass-shadow);
+-webkit-backdrop-filter: blur(8px);
+backdrop-filter: blur(8px);
+}
+
+/* Generic card spacing */
+.card {
+padding: 1.25rem;
+margin-bottom: 1rem;
+}
+
+.card-header {
+border-bottom: 2px solid rgba(0, 0, 0, 0.06);
+padding-bottom: 0.75rem;
+margin-bottom: 1rem;
+}
+
+/* Metric “pill” card */
+.metric-card {
+background: linear-gradient(135deg, #5ea3e6 0%, #6b5bd2 100%);
+color: #fff;
+border-radius: var(--radius);
+padding: 1.25rem;
+text-align: center;
+box-shadow: 0 10px 20px rgba(31, 119, 180, 0.25);
+}
+
+.metric-value {
+font-size: 2rem;
+font-weight: 800;
+letter-spacing: -0.02em;
+margin: 0.25rem 0;
+}
+
+.metric-label {
+font-size: 0.9rem;
+opacity: 0.92;
+}
+
+/* Primary buttons */
+.stButton > button {
+background-color: var(--primary) !important;
+color: #fff !important;
+border: none !important;
+border-radius: 10px !important;
+padding: 0.55rem 1rem !important;
+font-weight: 600 !important;
+transition: all 0.2s ease-in-out !important;
+box-shadow: 0 6px 14px rgba(31, 119, 180, 0.25) !important;
+}
+
+.stButton > button:hover {
+background-color: var(--primary-dark) !important;
+transform: translateY(-1px);
+box-shadow: 0 10px 22px rgba(31, 119, 180, 0.35) !important;
+}
+
+/* Context buttons via data-testid tokens when set by app code */
+.stButton > button[data-testid="btn-success"] {
+background-color: var(--success) !important;
+}
+.stButton > button[data-testid="btn-success"]:hover {
+background-color: #26a26a !important;
+}
+
+.stButton > button[data-testid="btn-warning"] {
+background-color: var(--warning) !important;
+}
+.stButton > button[data-testid="btn-warning"]:hover {
+background-color: #e67e22 !important;
+}
+
+.stButton > button[data-testid="btn-danger"] {
+background-color: var(--danger) !important;
+}
+.stButton > button[data-testid="btn-danger"]:hover {
+background-color: #c13515 !important;
+}
+
+/* Inputs */
+.stSelectbox select,
+.stTextInput input,
+.stNumberInput input,
+.stDateInput input {
+background-color: #fff !important;
+border: 1px solid #dfe3e8 !important;
+border-radius: 10px !important;
+padding: 0.5rem 0.75rem !important;
+color: var(--text) !important;
+box-shadow: none !important;
+}
+
+.stSelectbox select:focus,
+.stTextInput input:focus,
+.stNumberInput input:focus,
+.stDateInput input:focus {
+border-color: var(--primary) !important;
+outline: none !important;
+box-shadow: 0 0 0 3px rgba(31, 119, 180, 0.15) !important;
+}
+
+/* Slider primary color */
+.stSlider [role="slider"]::-webkit-slider-thumb {
+background: var(--primary);
+}
+.stSlider [data-baseweb="slider"] ._thumb {
+background: var(--primary);
+}
+
+/* Progress bar */
+[data-testid="stProgressBar"] > div > div {
+background-color: var(--primary) !important;
+}
+
+/* Dataframe/table */
+.dataframe {
+border-radius: var(--radius);
+overflow: hidden;
+box-shadow: var(--glass-shadow);
+background: #fff;
+}
+
+.dataframe thead tr th {
+background-color: #f8f9fb !important;
+color: #495057 !important;
+font-weight: 700 !important;
+text-align: left !important;
+}
+
+.dataframe tbody tr:nth-child(odd) {
+background-color: #fbfcfe !important;
+}
+
+.dataframe tbody tr:hover {
+background-color: #eef3f8 !important;
+}
+
+/* Expander */
+.streamlit-expanderHeader {
+background-color: rgba(255, 255, 255, 0.85) !important;
+border: 1px solid rgba(0, 0, 0, 0.06) !important;
+}
+
+.streamlit-expanderHeader:hover {
+background-color: rgba(255, 255, 255, 0.95) !important;
+}
+
+/* Alerts (info/warn/success/error) */
+.stAlert {
+border-radius: var(--radius) !important;
+border: none !important;
+box-shadow: var(--glass-shadow);
+}
+.stAlert [data-testid="stMarkdownContainer"] p {
+margin: 0.25rem 0 0 0;
+}
+
+.stAlert[data-baseweb="notification"][aria-live="polite"] {
+border-left: 5px solid var(--primary);
+}
+.stAlert[data-baseweb="notification"][kind="warning"] {
+border-left-color: #ffc107;
+}
+.stAlert[data-baseweb="notification"][kind="success"] {
+border-left-color: #28a745;
+}
+.stAlert[data-baseweb="notification"][kind="error"] {
+border-left-color: #dc3545;
+}
+
+/* Tabs */
+.stTabs [data-baseweb="tab-list"] {
+border-bottom: 2px solid #e8ecef;
+}
+.stTabs [data-baseweb="tab"] {
+background: transparent;
+border: none;
+color: #495057;
+padding: 0.75rem 1rem;
+font-weight: 600;
+transition: color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+.stTabs [data-baseweb="tab"]:hover {
+color: var(--primary);
+}
+.stTabs [aria-selected="true"][data-baseweb="tab"] {
+color: var(--primary);
+border-bottom: 2px solid var(--primary);
+background: transparent;
+}
+
+/* Tooltips (custom utility) */
+.tooltip {
+position: relative;
+display: inline-block;
+}
+.tooltip .tooltiptext {
+visibility: hidden;
+width: 140px;
+background-color: #2f3d4a;
+color: #fff;
+text-align: center;
+border-radius: 8px;
+padding: 6px 8px;
+position: absolute;
+z-index: 10;
+bottom: 125%;
+left: 50%;
+transform: translateX(-50%);
+opacity: 0;
+transition: opacity 0.2s;
+box-shadow: 0 6px 18px rgba(0, 0, 0, 0.18);
+}
+.tooltip:hover .tooltiptext {
+visibility: visible;
+opacity: 1;
+}
+
+/* Responsive tweaks /
+@media (max-width: 768px) {
+.metric-card { margin-bottom: 1rem; }
+/ Allow columns to stack gracefully */
+[data-testid="stHorizontalBlock"] {
+gap: 0.5rem !important;
+}
+
+
+/* Loading pulse */
+@keyframes pulse {
+0% { opacity: 0.6; }
+50% { opacity: 1; }
+100% { opacity: 0.6; }
+}
+.loading {
+animation: pulse 1.8s infinite;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: #eef1f4; }
+::-webkit-scrollbar-thumb { background: #aab7c4; border-radius: 8px; }
+::-webkit-scrollbar-thumb:hover { background: #8da0b1; }
+
+/* Map & chart containers */
+.map-container {
+overflow: hidden;
+box-shadow: 0 10px 24px rgba(0, 0, 0, 0.08);
+}
+.chart-container {
+background: #fff;
+border-radius: var(--radius);
+padding: 1rem;
+box-shadow: var(--glass-shadow);
+}
+
+/* Footer */
+.footer {
+background-color: #1e2a38;
+color: #ffffff;
+text-align: center;
+padding: 1rem;
+margin-top: 2rem;
+border-radius: var(--radius);
+}
+
+/* Fallback when backdrop-filter unsupported */
+@supports not ((-webkit-backdrop-filter: none) or (backdrop-filter: none)) {
+.card,
+.map-container,
+.chart-container,
+.streamlit-expanderHeader {
+background: #ffffff;
+}
+}

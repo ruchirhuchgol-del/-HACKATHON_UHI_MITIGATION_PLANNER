@@ -1,0 +1,312 @@
+/* streamlit_app/style.css */
+/**
+/* Main app styling */
+.main {
+    background-color: #f8f9fa;
+}
+
+/* Sidebar styling */
+[data-testid="stSidebar"] {
+    background-color: #2c3e50;
+    color: white;
+}
+
+[data-testid="stSidebar"] .css-1d391kg {
+    padding-top: 2rem;
+}
+
+[data-testid="stSidebar"] h1 {
+    color: white;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+/* Card styling */
+.card {
+    background-color: white;
+    border-radius: 0.5rem;
+    padding: 1.5rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-bottom: 1rem;
+}
+
+.card-header {
+    border-bottom: 2px solid #e9ecef;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+}
+
+.metric-card {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border-radius: 0.5rem;
+    padding: 1.5rem;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.metric-value {
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 0.5rem 0;
+}
+
+.metric-label {
+    font-size: 0.9rem;
+    opacity: 0.9;
+}
+
+/* Button styling */
+.stButton > button {
+    background-color: #1f77b4;
+    color: white;
+    border: none;
+    border-radius: 0.25rem;
+    padding: 0.5rem 1rem;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.stButton > button:hover {
+    background-color: #1f5aa0;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+/* Success button */
+.stButton > button[data-testid="baseButton-secondary"] {
+    background-color: #2ca02c;
+}
+
+.stButton > button[data-testid="baseButton-secondary"]:hover {
+    background-color: #26a26a;
+}
+
+/* Warning button */
+.stButton > button[data-testid="baseButton-secondary-warning"] {
+    background-color: #ff7f0e;
+}
+
+.stButton > button[data-testid="baseButton-secondary-warning"]:hover {
+    background-color: #e67e22;
+}
+
+/* Danger button */
+.stButton > button[data-testid="baseButton-secondary-danger"] {
+    background-color: #d62728;
+}
+
+.stButton > button[data-testid="baseButton-secondary-danger"]:hover {
+    background-color: #c13515;
+}
+
+/* Selectbox styling */
+.stSelectbox > div > div > select {
+    background-color: white;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    padding: 0.5rem;
+}
+
+/* Text input styling */
+.stTextInput > div > div > input {
+    background-color: white;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    padding: 0.5rem;
+}
+
+/* Slider styling */
+.stSlider > div > div > div > input {
+    background-color: #1f77b4;
+}
+
+/* Progress bar styling */
+.stProgress .st-bo {
+    background-color: #1f77b4;
+}
+
+/* Table styling */
+.dataframe {
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+
+.dataframe thead tr th {
+    background-color: #f8f9fa;
+    color: #495057;
+    font-weight: 600;
+    text-align: left;
+}
+
+.dataframe tbody tr:nth-child(odd) {
+    background-color: #f8f9fa;
+}
+
+.dataframe tbody tr:hover {
+    background-color: #e9ecef;
+}
+
+/* Expander styling */
+.streamlit-expanderHeader {
+    background-color: #f8f9fa;
+    border-radius: 0.5rem;
+    border: 1px solid #dee2e6;
+}
+
+.streamlit-expanderHeader:hover {
+    background-color: #e9ecef;
+}
+
+/* Alert styling */
+.streamlit-alert {
+    border-radius: 0.5rem;
+    border: none;
+}
+
+.streamlit-alert-info {
+    background-color: #d1ecf1;
+    border-left: 5px solid #17a2b8;
+}
+
+.streamlit-alert-warning {
+    background-color: #fff3cd;
+    border-left: 5px solid #ffc107;
+}
+
+.streamlit-alert-success {
+    background-color: #d4edda;
+    border-left: 5px solid #28a745;
+}
+
+.streamlit-alert-error {
+    background-color: #f8d7da;
+    border-left: 5px solid #dc3545;
+}
+
+/* Tabs styling */
+.streamlit-tabs .stTabs {
+    border-bottom: 2px solid #dee2e6;
+}
+
+.streamlit-tabs [data-baseweb="tab"] {
+    background-color: transparent;
+    border: none;
+    color: #495057;
+    padding: 0.75rem 1rem;
+    font-weight: 500;
+}
+
+.streamlit-tabs [data-baseweb="tab"]:hover {
+    color: #1f77b4;
+}
+
+.streamlit-tabs [data-baseweb="tab"][aria-selected="true"] {
+    color: #1f77b4;
+    border-bottom: 2px solid #1f77b4;
+    background-color: transparent;
+}
+
+/* Tooltip styling */
+.tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .metric-card {
+        margin-bottom: 1rem;
+    }
+    
+    .stColumns {
+        flex-direction: column;
+    }
+    
+    .stColumn {
+        width: 100% !important;
+    }
+}
+
+/* Loading animation */
+@keyframes pulse {
+    0% {
+        opacity: 0.6;
+    }
+    50% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0.6;
+    }
+}
+
+.loading {
+    animation: pulse 2s infinite;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+/* Map container styling */
+.map-container {
+    border-radius: 0.5rem;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* Chart container */
+.chart-container {
+    background-color: white;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Footer styling */
+.footer {
+    background-color: #2c3e50;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+    border-radius: 0.5rem;
+}
+
