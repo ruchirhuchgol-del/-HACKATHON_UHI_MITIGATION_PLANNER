@@ -1,0 +1,8 @@
+{
+"city_boundaries": {
+    "pune": [73.75, 18.45, 74.05, 18.65],
+    "nashik": [73.7, 19.9, 74.1, 20.1]
+},
+"hotspot_threshold": 90,
+"max_workers": 4
+}

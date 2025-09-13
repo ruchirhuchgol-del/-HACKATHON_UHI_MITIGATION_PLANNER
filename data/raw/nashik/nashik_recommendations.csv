@@ -1,0 +1,16 @@
+neighborhood,hvi_score,population,action,description,cooling_effect,cost_per_unit,feasibility,priority_score
+Ambad_4,0.990625,203147,cool_roofs,Install reflective roofing materials,1.5,200,0.8,0.006000000000000001
+Ambad_4,0.990625,203147,cool_pavements,Use reflective materials for roads and pavements,1.2,800,0.7,0.00105
+Ambad_4,0.990625,203147,green_roofs,Convert rooftops to vegetated green roofs,1.8,1500,0.6,0.00072
+Ambad_4,0.990625,203147,tree_planting,Plant shade trees in public spaces and along roads,2.0,5000,0.9,0.00036
+Ambad_4,0.990625,203147,water_features,"Install fountains, ponds, or misting systems",1.0,10000,0.5,5e-05
+Gangapur Road_9,0.9497545811518325,230966,cool_roofs,Install reflective roofing materials,1.5,200,0.8,0.006000000000000001
+Gangapur Road_9,0.9497545811518325,230966,cool_pavements,Use reflective materials for roads and pavements,1.2,800,0.7,0.00105
+Gangapur Road_9,0.9497545811518325,230966,green_roofs,Convert rooftops to vegetated green roofs,1.8,1500,0.6,0.00072
+Gangapur Road_9,0.9497545811518325,230966,tree_planting,Plant shade trees in public spaces and along roads,2.0,5000,0.9,0.00036
+Gangapur Road_9,0.9497545811518325,230966,water_features,"Install fountains, ponds, or misting systems",1.0,10000,0.5,5e-05
+Indiranagar_1,0.9163394415357766,236057,cool_roofs,Install reflective roofing materials,1.5,200,0.8,0.006000000000000001
+Indiranagar_1,0.9163394415357766,236057,cool_pavements,Use reflective materials for roads and pavements,1.2,800,0.7,0.00105
+Indiranagar_1,0.9163394415357766,236057,green_roofs,Convert rooftops to vegetated green roofs,1.8,1500,0.6,0.00072
+Indiranagar_1,0.9163394415357766,236057,tree_planting,Plant shade trees in public spaces and along roads,2.0,5000,0.9,0.00036
+Indiranagar_1,0.9163394415357766,236057,water_features,"Install fountains, ponds, or misting systems",1.0,10000,0.5,5e-05

@@ -1,0 +1,16 @@
+neighborhood,hvi_score,population,action,description,cooling_effect,cost_per_unit,feasibility,priority_score
+Bibwewadi_5,1.0,211713,cool_roofs,Install reflective roofing materials,1.5,200,0.8,0.006000000000000001
+Bibwewadi_5,1.0,211713,cool_pavements,Use reflective materials for roads and pavements,1.2,800,0.7,0.00105
+Bibwewadi_5,1.0,211713,green_roofs,Convert rooftops to vegetated green roofs,1.8,1500,0.6,0.00072
+Bibwewadi_5,1.0,211713,tree_planting,Plant shade trees in public spaces and along roads,2.0,5000,0.9,0.00036
+Bibwewadi_5,1.0,211713,water_features,"Install fountains, ponds, or misting systems",1.0,10000,0.5,5e-05
+Camp_1,0.985781990521327,172417,cool_roofs,Install reflective roofing materials,1.5,200,0.8,0.006000000000000001
+Camp_1,0.985781990521327,172417,cool_pavements,Use reflective materials for roads and pavements,1.2,800,0.7,0.00105
+Camp_1,0.985781990521327,172417,green_roofs,Convert rooftops to vegetated green roofs,1.8,1500,0.6,0.00072
+Camp_1,0.985781990521327,172417,tree_planting,Plant shade trees in public spaces and along roads,2.0,5000,0.9,0.00036
+Camp_1,0.985781990521327,172417,water_features,"Install fountains, ponds, or misting systems",1.0,10000,0.5,5e-05
+Viman Nagar_2,0.9914691943127961,190877,cool_roofs,Install reflective roofing materials,1.5,200,0.8,0.006000000000000001
+Viman Nagar_2,0.9914691943127961,190877,cool_pavements,Use reflective materials for roads and pavements,1.2,800,0.7,0.00105
+Viman Nagar_2,0.9914691943127961,190877,green_roofs,Convert rooftops to vegetated green roofs,1.8,1500,0.6,0.00072
+Viman Nagar_2,0.9914691943127961,190877,tree_planting,Plant shade trees in public spaces and along roads,2.0,5000,0.9,0.00036
+Viman Nagar_2,0.9914691943127961,190877,water_features,"Install fountains, ponds, or misting systems",1.0,10000,0.5,5e-05

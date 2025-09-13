@@ -1,0 +1,3606 @@
+{
+  "type": "FeatureCollection",
+  "name": "Pune_and_Nashik_Demographics",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Kothrud",
+        "population": 150000,
+        "population_over_65": "15.0%",
+        "low_income_households": "25.0%",
+        "ac_prevalence": "60.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Shivajinagar",
+        "population": 120000,
+        "population_over_65": "18.0%",
+        "low_income_households": "30.0%",
+        "ac_prevalence": "55.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Hadapsar",
+        "population": 180000,
+        "population_over_65": "12.0%",
+        "low_income_households": "35.0%",
+        "ac_prevalence": "45.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Baner_1",
+        "population": 177042,
+        "population_over_65": "16.4%",
+        "low_income_households": "26.0%",
+        "ac_prevalence": "39.2%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Baner_2",
+        "population": 98788,
+        "population_over_65": "20.6%",
+        "low_income_households": "31.2%",
+        "ac_prevalence": "41.7%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Baner_3",
+        "population": 213833,
+        "population_over_65": "13.6%",
+        "low_income_households": "31.0%",
+        "ac_prevalence": "34.6%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Baner_4",
+        "population": 110603,
+        "population_over_65": "18.2%",
+        "low_income_households": "29.2%",
+        "ac_prevalence": "37.9%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Baner_5",
+        "population": 102695,
+        "population_over_65": "16.5%",
+        "low_income_households": "28.4%",
+        "ac_prevalence": "41.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Baner_6",
+        "population": 131980,
+        "population_over_65": "15.1%",
+        "low_income_households": "25.9%",
+        "ac_prevalence": "37.7%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Baner_7",
+        "population": 104185,
+        "population_over_65": "14.9%",
+        "low_income_households": "35.4%",
+        "ac_prevalence": "41.1%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Aundh_1",
+        "population": 138276,
+        "population_over_65": "12.6%",
+        "low_income_households": "26.8%",
+        "ac_prevalence": "42.3%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Aundh_2",
+        "population": 149710,
+        "population_over_65": "12.2%",
+        "low_income_households": "29.1%",
+        "ac_prevalence": "37.5%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Aundh_3",
+        "population": 151204,
+        "population_over_65": "15.3%",
+        "low_income_households": "21.8%",
+        "ac_prevalence": "54.7%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Aundh_4",
+        "population": 176369,
+        "population_over_65": "17.4%",
+        "low_income_households": "26.0%",
+        "ac_prevalence": "49.9%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Aundh_5",
+        "population": 181500,
+        "population_over_65": "14.2%",
+        "low_income_households": "39.8%",
+        "ac_prevalence": "33.6%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Aundh_6",
+        "population": 124164,
+        "population_over_65": "21.3%",
+        "low_income_households": "31.3%",
+        "ac_prevalence": "35.6%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Aundh_7",
+        "population": 103932,
+        "population_over_65": "14.5%",
+        "low_income_households": "29.1%",
+        "ac_prevalence": "39.4%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Viman Nagar_1",
+        "population": 105544,
+        "population_over_65": "19.5%",
+        "low_income_households": "33.5%",
+        "ac_prevalence": "38.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Viman Nagar_2",
+        "population": 190877,
+        "population_over_65": "14.0%",
+        "low_income_households": "39.9%",
+        "ac_prevalence": "30.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Viman Nagar_3",
+        "population": 170698,
+        "population_over_65": "12.8%",
+        "low_income_households": "37.3%",
+        "ac_prevalence": "34.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Viman Nagar_4",
+        "population": 184409,
+        "population_over_65": "11.4%",
+        "low_income_households": "40.0%",
+        "ac_prevalence": "34.9%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Viman Nagar_5",
+        "population": 160990,
+        "population_over_65": "10.8%",
+        "low_income_households": "28.6%",
+        "ac_prevalence": "44.4%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Viman Nagar_6",
+        "population": 146360,
+        "population_over_65": "13.2%",
+        "low_income_households": "29.0%",
+        "ac_prevalence": "40.7%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Viman Nagar_7",
+        "population": 194077,
+        "population_over_65": "10.3%",
+        "low_income_households": "36.5%",
+        "ac_prevalence": "34.1%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Kharadi_1",
+        "population": 211885,
+        "population_over_65": "12.5%",
+        "low_income_households": "37.7%",
+        "ac_prevalence": "37.6%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Kharadi_2",
+        "population": 165285,
+        "population_over_65": "10.1%",
+        "low_income_households": "34.4%",
+        "ac_prevalence": "31.7%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Kharadi_3",
+        "population": 152360,
+        "population_over_65": "16.8%",
+        "low_income_households": "29.0%",
+        "ac_prevalence": "38.5%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Kharadi_4",
+        "population": 106940,
+        "population_over_65": "17.5%",
+        "low_income_households": "33.8%",
+        "ac_prevalence": "41.2%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Kharadi_5",
+        "population": 150644,
+        "population_over_65": "14.5%",
+        "low_income_households": "22.2%",
+        "ac_prevalence": "42.5%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Kharadi_6",
+        "population": 111513,
+        "population_over_65": "18.1%",
+        "low_income_households": "32.4%",
+        "ac_prevalence": "35.7%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Kharadi_7",
+        "population": 213296,
+        "population_over_65": "10.8%",
+        "low_income_households": "35.0%",
+        "ac_prevalence": "32.3%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Wakad_1",
+        "population": 146655,
+        "population_over_65": "12.5%",
+        "low_income_households": "35.0%",
+        "ac_prevalence": "30.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Wakad_2",
+        "population": 209395,
+        "population_over_65": "10.7%",
+        "low_income_households": "30.0%",
+        "ac_prevalence": "39.8%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Wakad_3",
+        "population": 155561,
+        "population_over_65": "12.5%",
+        "low_income_households": "23.7%",
+        "ac_prevalence": "42.7%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Wakad_4",
+        "population": 148218,
+        "population_over_65": "17.9%",
+        "low_income_households": "24.0%",
+        "ac_prevalence": "50.4%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Wakad_5",
+        "population": 111397,
+        "population_over_65": "15.7%",
+        "low_income_households": "24.5%",
+        "ac_prevalence": "46.8%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Wakad_6",
+        "population": 120995,
+        "population_over_65": "15.1%",
+        "low_income_households": "22.3%",
+        "ac_prevalence": "49.8%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Wakad_7",
+        "population": 115083,
+        "population_over_65": "18.1%",
+        "low_income_households": "34.1%",
+        "ac_prevalence": "38.4%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Karve Nagar_1",
+        "population": 106035,
+        "population_over_65": "18.3%",
+        "low_income_households": "32.3%",
+        "ac_prevalence": "33.9%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Karve Nagar_2",
+        "population": 153312,
+        "population_over_65": "15.2%",
+        "low_income_households": "22.4%",
+        "ac_prevalence": "41.9%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Karve Nagar_3",
+        "population": 138366,
+        "population_over_65": "15.8%",
+        "low_income_households": "27.3%",
+        "ac_prevalence": "45.5%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Karve Nagar_4",
+        "population": 173225,
+        "population_over_65": "16.7%",
+        "low_income_households": "26.4%",
+        "ac_prevalence": "37.8%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Karve Nagar_5",
+        "population": 156385,
+        "population_over_65": "12.1%",
+        "low_income_households": "21.0%",
+        "ac_prevalence": "51.3%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Karve Nagar_6",
+        "population": 155578,
+        "population_over_65": "12.2%",
+        "low_income_households": "37.7%",
+        "ac_prevalence": "34.4%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Karve Nagar_7",
+        "population": 195276,
+        "population_over_65": "10.7%",
+        "low_income_households": "32.6%",
+        "ac_prevalence": "40.9%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Bibwewadi_1",
+        "population": 127565,
+        "population_over_65": "18.5%",
+        "low_income_households": "25.1%",
+        "ac_prevalence": "43.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Bibwewadi_2",
+        "population": 134639,
+        "population_over_65": "17.8%",
+        "low_income_households": "23.9%",
+        "ac_prevalence": "51.6%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Bibwewadi_3",
+        "population": 134150,
+        "population_over_65": "18.0%",
+        "low_income_households": "30.9%",
+        "ac_prevalence": "39.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Bibwewadi_4",
+        "population": 196016,
+        "population_over_65": "10.9%",
+        "low_income_households": "28.3%",
+        "ac_prevalence": "43.7%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Bibwewadi_5",
+        "population": 211713,
+        "population_over_65": "14.2%",
+        "low_income_households": "40.0%",
+        "ac_prevalence": "30.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Bibwewadi_6",
+        "population": 140559,
+        "population_over_65": "17.5%",
+        "low_income_households": "35.6%",
+        "ac_prevalence": "40.9%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Bibwewadi_7",
+        "population": 165200,
+        "population_over_65": "11.4%",
+        "low_income_households": "39.9%",
+        "ac_prevalence": "30.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Camp_1",
+        "population": 172417,
+        "population_over_65": "13.7%",
+        "low_income_households": "40.0%",
+        "ac_prevalence": "30.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Camp_2",
+        "population": 160268,
+        "population_over_65": "14.2%",
+        "low_income_households": "22.5%",
+        "ac_prevalence": "44.6%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Camp_3",
+        "population": 205104,
+        "population_over_65": "10.3%",
+        "low_income_households": "37.9%",
+        "ac_prevalence": "32.8%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Camp_4",
+        "population": 174224,
+        "population_over_65": "10.8%",
+        "low_income_households": "36.6%",
+        "ac_prevalence": "30.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Camp_5",
+        "population": 126138,
+        "population_over_65": "15.8%",
+        "low_income_households": "24.9%",
+        "ac_prevalence": "43.7%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Camp_6",
+        "population": 173197,
+        "population_over_65": "12.2%",
+        "low_income_households": "25.8%",
+        "ac_prevalence": "43.3%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Camp_7",
+        "population": 139689,
+        "population_over_65": "12.9%",
+        "low_income_households": "29.8%",
+        "ac_prevalence": "44.9%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Deccan_1",
+        "population": 135015,
+        "population_over_65": "12.2%",
+        "low_income_households": "23.0%",
+        "ac_prevalence": "47.5%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Deccan_2",
+        "population": 135737,
+        "population_over_65": "16.4%",
+        "low_income_households": "35.6%",
+        "ac_prevalence": "33.8%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Deccan_3",
+        "population": 157995,
+        "population_over_65": "11.6%",
+        "low_income_households": "37.8%",
+        "ac_prevalence": "30.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Deccan_4",
+        "population": 181173,
+        "population_over_65": "11.2%",
+        "low_income_households": "39.1%",
+        "ac_prevalence": "30.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Deccan_5",
+        "population": 162061,
+        "population_over_65": "10.5%",
+        "low_income_households": "29.1%",
+        "ac_prevalence": "39.9%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Deccan_6",
+        "population": 104318,
+        "population_over_65": "15.5%",
+        "low_income_households": "27.0%",
+        "ac_prevalence": "43.7%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Deccan_7",
+        "population": 211292,
+        "population_over_65": "12.7%",
+        "low_income_households": "35.2%",
+        "ac_prevalence": "37.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Pimple Saudagar_1",
+        "population": 196562,
+        "population_over_65": "9.8%",
+        "low_income_households": "35.9%",
+        "ac_prevalence": "30.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Pimple Saudagar_2",
+        "population": 168615,
+        "population_over_65": "10.0%",
+        "low_income_households": "29.3%",
+        "ac_prevalence": "38.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Pimple Saudagar_3",
+        "population": 130519,
+        "population_over_65": "12.1%",
+        "low_income_households": "27.6%",
+        "ac_prevalence": "46.7%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Pimple Saudagar_4",
+        "population": 175237,
+        "population_over_65": "11.5%",
+        "low_income_households": "36.6%",
+        "ac_prevalence": "35.3%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Pimple Saudagar_5",
+        "population": 142476,
+        "population_over_65": "15.8%",
+        "low_income_households": "25.0%",
+        "ac_prevalence": "50.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Pimple Saudagar_6",
+        "population": 103820,
+        "population_over_65": "14.9%",
+        "low_income_households": "31.7%",
+        "ac_prevalence": "31.7%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Pimple Saudagar_7",
+        "population": 154528,
+        "population_over_65": "14.3%",
+        "low_income_households": "26.4%",
+        "ac_prevalence": "43.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Koregaon Park_1",
+        "population": 141190,
+        "population_over_65": "17.2%",
+        "low_income_households": "35.5%",
+        "ac_prevalence": "40.1%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Koregaon Park_2",
+        "population": 106300,
+        "population_over_65": "17.1%",
+        "low_income_households": "24.5%",
+        "ac_prevalence": "47.2%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Koregaon Park_3",
+        "population": 127474,
+        "population_over_65": "17.2%",
+        "low_income_households": "32.2%",
+        "ac_prevalence": "35.6%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Koregaon Park_4",
+        "population": 119809,
+        "population_over_65": "19.4%",
+        "low_income_households": "28.2%",
+        "ac_prevalence": "47.9%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Koregaon Park_5",
+        "population": 142443,
+        "population_over_65": "18.3%",
+        "low_income_households": "29.1%",
+        "ac_prevalence": "41.9%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Koregaon Park_6",
+        "population": 131119,
+        "population_over_65": "15.3%",
+        "low_income_households": "27.0%",
+        "ac_prevalence": "44.1%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Koregaon Park_7",
+        "population": 153712,
+        "population_over_65": "13.4%",
+        "low_income_households": "26.8%",
+        "ac_prevalence": "46.6%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Magarpatta_1",
+        "population": 114130,
+        "population_over_65": "18.2%",
+        "low_income_households": "30.0%",
+        "ac_prevalence": "38.5%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Magarpatta_2",
+        "population": 100799,
+        "population_over_65": "14.8%",
+        "low_income_households": "35.5%",
+        "ac_prevalence": "39.4%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Magarpatta_3",
+        "population": 141926,
+        "population_over_65": "19.3%",
+        "low_income_households": "29.8%",
+        "ac_prevalence": "40.1%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Magarpatta_4",
+        "population": 110074,
+        "population_over_65": "16.8%",
+        "low_income_households": "32.1%",
+        "ac_prevalence": "41.5%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Magarpatta_5",
+        "population": 167377,
+        "population_over_65": "12.5%",
+        "low_income_households": "24.9%",
+        "ac_prevalence": "38.9%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Magarpatta_6",
+        "population": 146491,
+        "population_over_65": "17.3%",
+        "low_income_households": "23.5%",
+        "ac_prevalence": "41.1%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Magarpatta_7",
+        "population": 204261,
+        "population_over_65": "13.8%",
+        "low_income_households": "39.7%",
+        "ac_prevalence": "30.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Katraj_1",
+        "population": 203173,
+        "population_over_65": "13.0%",
+        "low_income_households": "29.1%",
+        "ac_prevalence": "35.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Katraj_2",
+        "population": 142456,
+        "population_over_65": "14.2%",
+        "low_income_households": "28.1%",
+        "ac_prevalence": "48.1%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Katraj_3",
+        "population": 132162,
+        "population_over_65": "17.1%",
+        "low_income_households": "25.0%",
+        "ac_prevalence": "48.9%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Katraj_4",
+        "population": 174543,
+        "population_over_65": "14.0%",
+        "low_income_households": "29.6%",
+        "ac_prevalence": "40.3%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Katraj_5",
+        "population": 177743,
+        "population_over_65": "9.9%",
+        "low_income_households": "29.7%",
+        "ac_prevalence": "35.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Katraj_6",
+        "population": 131810,
+        "population_over_65": "18.6%",
+        "low_income_households": "35.5%",
+        "ac_prevalence": "32.7%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Katraj_7",
+        "population": 137692,
+        "population_over_65": "16.0%",
+        "low_income_households": "35.6%",
+        "ac_prevalence": "30.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Sinhagad Road_1",
+        "population": 111488,
+        "population_over_65": "14.7%",
+        "low_income_households": "35.1%",
+        "ac_prevalence": "40.8%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Sinhagad Road_2",
+        "population": 142526,
+        "population_over_65": "18.2%",
+        "low_income_households": "31.6%",
+        "ac_prevalence": "41.2%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Sinhagad Road_3",
+        "population": 126122,
+        "population_over_65": "18.6%",
+        "low_income_households": "34.8%",
+        "ac_prevalence": "30.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Sinhagad Road_4",
+        "population": 123471,
+        "population_over_65": "14.4%",
+        "low_income_households": "21.1%",
+        "ac_prevalence": "46.6%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Sinhagad Road_5",
+        "population": 158810,
+        "population_over_65": "14.3%",
+        "low_income_households": "22.3%",
+        "ac_prevalence": "44.4%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pune",
+        "neighborhood": "Sinhagad Road_6",
+        "population": 108477,
+        "population_over_65": "17.7%",
+        "low_income_households": "24.4%",
+        "ac_prevalence": "42.5%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Panchavati",
+        "population": 200000,
+        "population_over_65": "20.0%",
+        "low_income_households": "40.0%",
+        "ac_prevalence": "50.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Nashik Road",
+        "population": 170000,
+        "population_over_65": "15.0%",
+        "low_income_households": "35.0%",
+        "ac_prevalence": "55.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "CIDCO",
+        "population": 160000,
+        "population_over_65": "10.0%",
+        "low_income_households": "25.0%",
+        "ac_prevalence": "65.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Indiranagar_1",
+        "population": 236057,
+        "population_over_65": "21.9%",
+        "low_income_households": "41.6%",
+        "ac_prevalence": "28.6%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Indiranagar_2",
+        "population": 139949,
+        "population_over_65": "17.2%",
+        "low_income_households": "36.4%",
+        "ac_prevalence": "41.5%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Indiranagar_3",
+        "population": 190074,
+        "population_over_65": "11.3%",
+        "low_income_households": "22.1%",
+        "ac_prevalence": "48.4%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Indiranagar_4",
+        "population": 156688,
+        "population_over_65": "15.1%",
+        "low_income_households": "34.0%",
+        "ac_prevalence": "38.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Indiranagar_5",
+        "population": 145485,
+        "population_over_65": "13.8%",
+        "low_income_households": "33.1%",
+        "ac_prevalence": "41.3%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Indiranagar_6",
+        "population": 175973,
+        "population_over_65": "20.1%",
+        "low_income_households": "41.5%",
+        "ac_prevalence": "27.2%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Indiranagar_7",
+        "population": 147595,
+        "population_over_65": "12.4%",
+        "low_income_households": "41.3%",
+        "ac_prevalence": "40.2%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Indiranagar_8",
+        "population": 184369,
+        "population_over_65": "16.8%",
+        "low_income_households": "42.9%",
+        "ac_prevalence": "31.2%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Indiranagar_9",
+        "population": 199614,
+        "population_over_65": "16.3%",
+        "low_income_households": "45.0%",
+        "ac_prevalence": "26.6%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Indiranagar_10",
+        "population": 201605,
+        "population_over_65": "20.4%",
+        "low_income_households": "35.0%",
+        "ac_prevalence": "46.6%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Satpur_1",
+        "population": 235159,
+        "population_over_65": "23.2%",
+        "low_income_households": "41.6%",
+        "ac_prevalence": "39.3%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Satpur_2",
+        "population": 161333,
+        "population_over_65": "11.8%",
+        "low_income_households": "28.4%",
+        "ac_prevalence": "50.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Satpur_3",
+        "population": 175899,
+        "population_over_65": "17.8%",
+        "low_income_households": "36.5%",
+        "ac_prevalence": "35.4%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Satpur_4",
+        "population": 147238,
+        "population_over_65": "12.1%",
+        "low_income_households": "33.9%",
+        "ac_prevalence": "39.6%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Satpur_5",
+        "population": 149521,
+        "population_over_65": "16.3%",
+        "low_income_households": "39.1%",
+        "ac_prevalence": "37.4%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Satpur_6",
+        "population": 169668,
+        "population_over_65": "11.7%",
+        "low_income_households": "28.5%",
+        "ac_prevalence": "45.8%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Satpur_7",
+        "population": 151732,
+        "population_over_65": "10.7%",
+        "low_income_households": "26.7%",
+        "ac_prevalence": "49.6%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Satpur_8",
+        "population": 163919,
+        "population_over_65": "9.5%",
+        "low_income_households": "29.7%",
+        "ac_prevalence": "50.2%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Satpur_9",
+        "population": 143103,
+        "population_over_65": "9.0%",
+        "low_income_households": "20.4%",
+        "ac_prevalence": "57.5%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Satpur_10",
+        "population": 195146,
+        "population_over_65": "17.6%",
+        "low_income_households": "45.0%",
+        "ac_prevalence": "29.7%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Ambad_1",
+        "population": 172513,
+        "population_over_65": "8.6%",
+        "low_income_households": "26.0%",
+        "ac_prevalence": "49.5%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Ambad_2",
+        "population": 188342,
+        "population_over_65": "10.4%",
+        "low_income_households": "26.9%",
+        "ac_prevalence": "53.4%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Ambad_3",
+        "population": 146920,
+        "population_over_65": "8.4%",
+        "low_income_households": "24.6%",
+        "ac_prevalence": "46.5%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Ambad_4",
+        "population": 203147,
+        "population_over_65": "22.5%",
+        "low_income_households": "45.0%",
+        "ac_prevalence": "27.5%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Ambad_5",
+        "population": 151499,
+        "population_over_65": "14.6%",
+        "low_income_households": "39.5%",
+        "ac_prevalence": "40.6%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Ambad_6",
+        "population": 200859,
+        "population_over_65": "19.3%",
+        "low_income_households": "35.6%",
+        "ac_prevalence": "34.1%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Ambad_7",
+        "population": 157977,
+        "population_over_65": "15.1%",
+        "low_income_households": "37.8%",
+        "ac_prevalence": "35.2%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Ambad_8",
+        "population": 189596,
+        "population_over_65": "9.0%",
+        "low_income_households": "25.0%",
+        "ac_prevalence": "47.2%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Ambad_9",
+        "population": 130360,
+        "population_over_65": "10.4%",
+        "low_income_households": "25.0%",
+        "ac_prevalence": "43.7%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Ambad_10",
+        "population": 186129,
+        "population_over_65": "9.0%",
+        "low_income_households": "21.4%",
+        "ac_prevalence": "53.4%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Gangapur Road_1",
+        "population": 207415,
+        "population_over_65": "16.6%",
+        "low_income_households": "37.9%",
+        "ac_prevalence": "33.5%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Gangapur Road_2",
+        "population": 197624,
+        "population_over_65": "23.9%",
+        "low_income_households": "38.4%",
+        "ac_prevalence": "41.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Gangapur Road_3",
+        "population": 157813,
+        "population_over_65": "13.1%",
+        "low_income_households": "28.6%",
+        "ac_prevalence": "47.7%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Gangapur Road_4",
+        "population": 161327,
+        "population_over_65": "20.1%",
+        "low_income_households": "35.6%",
+        "ac_prevalence": "41.4%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Gangapur Road_5",
+        "population": 163034,
+        "population_over_65": "15.1%",
+        "low_income_households": "39.7%",
+        "ac_prevalence": "37.7%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Gangapur Road_6",
+        "population": 150216,
+        "population_over_65": "15.2%",
+        "low_income_households": "37.7%",
+        "ac_prevalence": "33.5%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Gangapur Road_7",
+        "population": 204416,
+        "population_over_65": "20.2%",
+        "low_income_households": "35.9%",
+        "ac_prevalence": "33.4%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Gangapur Road_8",
+        "population": 196019,
+        "population_over_65": "13.1%",
+        "low_income_households": "31.9%",
+        "ac_prevalence": "45.9%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Gangapur Road_9",
+        "population": 230966,
+        "population_over_65": "22.2%",
+        "low_income_households": "42.3%",
+        "ac_prevalence": "26.9%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Gangapur Road_10",
+        "population": 208514,
+        "population_over_65": "16.1%",
+        "low_income_households": "33.6%",
+        "ac_prevalence": "43.7%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Dwarka_1",
+        "population": 138291,
+        "population_over_65": "10.2%",
+        "low_income_households": "26.9%",
+        "ac_prevalence": "50.2%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Dwarka_2",
+        "population": 173579,
+        "population_over_65": "8.9%",
+        "low_income_households": "23.3%",
+        "ac_prevalence": "55.2%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Dwarka_3",
+        "population": 180717,
+        "population_over_65": "15.4%",
+        "low_income_households": "29.3%",
+        "ac_prevalence": "43.8%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Dwarka_4",
+        "population": 179519,
+        "population_over_65": "23.8%",
+        "low_income_households": "38.3%",
+        "ac_prevalence": "42.2%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Dwarka_5",
+        "population": 190047,
+        "population_over_65": "15.0%",
+        "low_income_households": "36.1%",
+        "ac_prevalence": "38.8%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Dwarka_6",
+        "population": 174236,
+        "population_over_65": "9.1%",
+        "low_income_households": "20.2%",
+        "ac_prevalence": "56.8%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Dwarka_7",
+        "population": 188189,
+        "population_over_65": "11.8%",
+        "low_income_households": "29.1%",
+        "ac_prevalence": "44.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Dwarka_8",
+        "population": 199125,
+        "population_over_65": "14.6%",
+        "low_income_households": "41.5%",
+        "ac_prevalence": "40.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Dwarka_9",
+        "population": 146844,
+        "population_over_65": "9.5%",
+        "low_income_households": "28.5%",
+        "ac_prevalence": "43.9%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Dwarka_10",
+        "population": 153260,
+        "population_over_65": "11.4%",
+        "low_income_households": "29.3%",
+        "ac_prevalence": "39.7%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Meri_1",
+        "population": 213691,
+        "population_over_65": "18.9%",
+        "low_income_households": "36.1%",
+        "ac_prevalence": "36.1%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Meri_2",
+        "population": 182314,
+        "population_over_65": "8.5%",
+        "low_income_households": "27.1%",
+        "ac_prevalence": "48.7%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Meri_3",
+        "population": 154865,
+        "population_over_65": "9.0%",
+        "low_income_households": "26.1%",
+        "ac_prevalence": "43.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Meri_4",
+        "population": 178696,
+        "population_over_65": "13.2%",
+        "low_income_households": "29.0%",
+        "ac_prevalence": "44.6%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Meri_5",
+        "population": 230929,
+        "population_over_65": "16.2%",
+        "low_income_households": "41.3%",
+        "ac_prevalence": "32.9%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Meri_6",
+        "population": 186252,
+        "population_over_65": "17.2%",
+        "low_income_households": "45.0%",
+        "ac_prevalence": "34.7%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Meri_7",
+        "population": 180020,
+        "population_over_65": "16.3%",
+        "low_income_households": "36.9%",
+        "ac_prevalence": "38.7%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Meri_8",
+        "population": 192295,
+        "population_over_65": "13.6%",
+        "low_income_households": "41.5%",
+        "ac_prevalence": "32.9%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Meri_9",
+        "population": 140440,
+        "population_over_65": "9.6%",
+        "low_income_households": "27.0%",
+        "ac_prevalence": "42.9%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Meri_10",
+        "population": 161043,
+        "population_over_65": "9.3%",
+        "low_income_households": "28.0%",
+        "ac_prevalence": "43.8%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Deolali_1",
+        "population": 144055,
+        "population_over_65": "8.7%",
+        "low_income_households": "20.8%",
+        "ac_prevalence": "53.2%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Deolali_2",
+        "population": 147784,
+        "population_over_65": "12.9%",
+        "low_income_households": "31.5%",
+        "ac_prevalence": "44.2%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Deolali_3",
+        "population": 187815,
+        "population_over_65": "10.6%",
+        "low_income_households": "25.2%",
+        "ac_prevalence": "52.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Deolali_4",
+        "population": 174722,
+        "population_over_65": "8.2%",
+        "low_income_households": "25.7%",
+        "ac_prevalence": "44.6%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Deolali_5",
+        "population": 149880,
+        "population_over_65": "8.4%",
+        "low_income_households": "20.9%",
+        "ac_prevalence": "51.4%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Deolali_6",
+        "population": 174026,
+        "population_over_65": "16.1%",
+        "low_income_households": "44.2%",
+        "ac_prevalence": "35.1%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Deolali_7",
+        "population": 155766,
+        "population_over_65": "9.6%",
+        "low_income_households": "26.2%",
+        "ac_prevalence": "50.7%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Deolali_8",
+        "population": 189969,
+        "population_over_65": "21.0%",
+        "low_income_households": "40.1%",
+        "ac_prevalence": "39.9%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Deolali_9",
+        "population": 147079,
+        "population_over_65": "12.4%",
+        "low_income_households": "37.0%",
+        "ac_prevalence": "31.4%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Deolali_10",
+        "population": 206037,
+        "population_over_65": "19.1%",
+        "low_income_households": "42.3%",
+        "ac_prevalence": "32.1%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Tidke Colony_1",
+        "population": 200019,
+        "population_over_65": "14.3%",
+        "low_income_households": "41.5%",
+        "ac_prevalence": "39.2%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Tidke Colony_2",
+        "population": 150592,
+        "population_over_65": "14.3%",
+        "low_income_households": "28.5%",
+        "ac_prevalence": "48.1%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Tidke Colony_3",
+        "population": 180589,
+        "population_over_65": "14.3%",
+        "low_income_households": "37.5%",
+        "ac_prevalence": "35.2%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Tidke Colony_4",
+        "population": 169730,
+        "population_over_65": "16.2%",
+        "low_income_households": "32.9%",
+        "ac_prevalence": "48.2%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Tidke Colony_5",
+        "population": 201795,
+        "population_over_65": "15.3%",
+        "low_income_households": "33.9%",
+        "ac_prevalence": "42.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Tidke Colony_6",
+        "population": 185752,
+        "population_over_65": "12.8%",
+        "low_income_households": "31.5%",
+        "ac_prevalence": "44.6%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Tidke Colony_7",
+        "population": 204949,
+        "population_over_65": "17.9%",
+        "low_income_households": "42.9%",
+        "ac_prevalence": "35.5%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Tidke Colony_8",
+        "population": 161685,
+        "population_over_65": "15.2%",
+        "low_income_households": "35.0%",
+        "ac_prevalence": "38.5%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Tidke Colony_9",
+        "population": 142798,
+        "population_over_65": "12.3%",
+        "low_income_households": "41.4%",
+        "ac_prevalence": "38.4%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Tidke Colony_10",
+        "population": 201062,
+        "population_over_65": "16.1%",
+        "low_income_households": "34.8%",
+        "ac_prevalence": "40.1%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "College Road_1",
+        "population": 155938,
+        "population_over_65": "14.0%",
+        "low_income_households": "37.4%",
+        "ac_prevalence": "41.1%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "College Road_2",
+        "population": 223169,
+        "population_over_65": "16.7%",
+        "low_income_households": "39.9%",
+        "ac_prevalence": "28.9%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "College Road_3",
+        "population": 195322,
+        "population_over_65": "23.1%",
+        "low_income_households": "37.6%",
+        "ac_prevalence": "32.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "College Road_4",
+        "population": 181565,
+        "population_over_65": "11.5%",
+        "low_income_households": "28.4%",
+        "ac_prevalence": "45.6%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "College Road_5",
+        "population": 180599,
+        "population_over_65": "10.8%",
+        "low_income_households": "20.8%",
+        "ac_prevalence": "48.4%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "College Road_6",
+        "population": 189941,
+        "population_over_65": "19.0%",
+        "low_income_households": "45.0%",
+        "ac_prevalence": "36.3%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "College Road_7",
+        "population": 187229,
+        "population_over_65": "14.3%",
+        "low_income_households": "29.2%",
+        "ac_prevalence": "49.7%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "College Road_8",
+        "population": 155150,
+        "population_over_65": "11.6%",
+        "low_income_households": "21.1%",
+        "ac_prevalence": "53.8%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "College Road_9",
+        "population": 157994,
+        "population_over_65": "8.2%",
+        "low_income_households": "21.2%",
+        "ac_prevalence": "48.5%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "College Road_10",
+        "population": 186731,
+        "population_over_65": "15.5%",
+        "low_income_households": "41.5%",
+        "ac_prevalence": "31.8%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Mhasrul_1",
+        "population": 195064,
+        "population_over_65": "13.3%",
+        "low_income_households": "41.5%",
+        "ac_prevalence": "26.7%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Mhasrul_2",
+        "population": 157942,
+        "population_over_65": "12.3%",
+        "low_income_households": "40.9%",
+        "ac_prevalence": "39.9%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Mhasrul_3",
+        "population": 201912,
+        "population_over_65": "15.1%",
+        "low_income_households": "36.8%",
+        "ac_prevalence": "40.9%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Mhasrul_4",
+        "population": 178673,
+        "population_over_65": "15.5%",
+        "low_income_households": "40.6%",
+        "ac_prevalence": "28.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Mhasrul_5",
+        "population": 164629,
+        "population_over_65": "19.2%",
+        "low_income_households": "33.7%",
+        "ac_prevalence": "39.0%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Mhasrul_6",
+        "population": 211747,
+        "population_over_65": "19.1%",
+        "low_income_households": "35.7%",
+        "ac_prevalence": "36.1%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nashik",
+        "neighborhood": "Mhasrul_7",
+        "population": 153676,
+        "population_over_65": "14.7%",
+        "low_income_households": "28.5%",
+        "ac_prevalence": "43.5%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7898,
+          20.0059
+        ]
+      }
+    }
+  ]
+}

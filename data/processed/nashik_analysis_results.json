@@ -1,0 +1,20 @@
+{
+  "city": "nashik",
+  "num_files": 566,
+  "date_range": "2019-05-09 to 2025-08-05",
+  "temp_range": "-45.1\u00b0C to 60.4\u00b0C",
+  "mean_temp": 33.77279638804364,
+  "trends": {
+    "min_temp_trend": -0.018814770096644375,
+    "max_temp_trend": -0.0032637509635538883,
+    "mean_temp_trend": -0.004934023036077998
+  },
+  "num_hotspots": 1325,
+  "hotspot_threshold": 49.51000000000005,
+  "file_types": {
+    "HDF": 288,
+    "JPG": 278
+  },
+  "avg_coverage": 0.7480237620239498,
+  "plots_generated": false
+}

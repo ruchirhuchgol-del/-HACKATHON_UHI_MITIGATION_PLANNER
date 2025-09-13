@@ -1,30 +1,19 @@
+# Ignore all files in data directory by default
+data/*
 
-# Environment variables
-.env
-.env.local
-.env.*.local
+# But allow these specific files and directories
+!data/external/
+!data/raw/
+!data/processed/
+!data/raw/nashik/
+!data/raw/pune/
+!data/raw/cities_demographic_data.geojson
+!data/processed/combined_analysis_results.json
+!data/processed/combined_lst_metadata.csv
+!data/processed/nashik_analysis_results.json
+!data/processed/pune_analysis_results.json
 
-# Python cache
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Virtual environment
-venv/
-env/
-ENV/
-
-# IDE
-.vscode/
-.idea/
-
-
-# Logs
-*.log
-
-# Data files
-*.csv
-*.json
-*.xlsx
-*.parquet
-data/
+# Also allow all files within these directories
+!data/external/*
+!data/raw/nashik/*
+!data/raw/pune/*

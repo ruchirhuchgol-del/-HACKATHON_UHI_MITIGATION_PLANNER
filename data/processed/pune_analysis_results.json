@@ -1,0 +1,20 @@
+{
+  "city": "pune",
+  "num_files": 1716,
+  "date_range": "2010-08-29 to 2025-08-05",
+  "temp_range": "-49.2\u00b0C to 74.1\u00b0C",
+  "mean_temp": 33.86789803696416,
+  "trends": {
+    "min_temp_trend": -0.0074342482816591605,
+    "max_temp_trend": -0.00046598955108100525,
+    "mean_temp_trend": -0.0024148620081912192
+  },
+  "num_hotspots": 1913,
+  "hotspot_threshold": 28.890000000000043,
+  "file_types": {
+    "JPG": 1032,
+    "HDF": 684
+  },
+  "avg_coverage": 0.9305507057757058,
+  "plots_generated": false
+}
